@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=VjsX4tznW40
 Most software developers use LaTeX to edit their resume. And by learning LaTeX set you free from all limit of existed templates.
 
 ## Preview
-![Resume Screenshot](/resume_preview.png)
+![Resume Screenshot](/resume_LaTeX.pdf)
